@@ -26,5 +26,6 @@ public class Main {
         double area = (base * height) / 2;
         System.out.println("The area is " + area);
 //new comment to test
+        //Ya lyublyu Aknur!!!
     }
 }
